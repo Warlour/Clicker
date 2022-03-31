@@ -1,5 +1,8 @@
 #include <iostream>
 #include "auto.hpp"
+#include <windows.h>
+
+INPUT Input;
 
 void LeftClick(){
     Input = {0};
