@@ -4,6 +4,10 @@
 
 INPUT Input;
 
+/* The two following functions belong to the closed account of the forum user: z05DSL3A
+http://cplusplus.com/forum/windows/11548/
+From June 4th, 2009 at 3:06 pm
+*/
 void LeftClick(){
     Input = {0};
     
