@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/mathi/Desktop/Clicker/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/AutoClicker.dir/includes_CXX.rsp -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles\\AutoClicker.dir\\src\\main.cpp.obj -c C:\\Users\\mathi\\Desktop\\Clicker\\src\\main.cpp",
+  "file": "C:/Users/mathi/Desktop/Clicker/src/main.cpp"
+},
+{
+  "directory": "C:/Users/mathi/Desktop/Clicker/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/AutoClicker.dir/includes_CXX.rsp -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles\\AutoClicker.dir\\src\\auto.cpp.obj -c C:\\Users\\mathi\\Desktop\\Clicker\\src\\auto.cpp",
+  "file": "C:/Users/mathi/Desktop/Clicker/src/auto.cpp"
+}
+]

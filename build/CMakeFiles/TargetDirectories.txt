@@ -1,0 +1,3 @@
+C:/Users/mathi/Desktop/Clicker/build/CMakeFiles/AutoClicker.dir
+C:/Users/mathi/Desktop/Clicker/build/CMakeFiles/edit_cache.dir
+C:/Users/mathi/Desktop/Clicker/build/CMakeFiles/rebuild_cache.dir
