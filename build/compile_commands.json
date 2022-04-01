@@ -1,12 +1,12 @@
 [
 {
   "directory": "C:/Users/mathi/Desktop/Clicker/build",
-  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/AutoClicker.dir/includes_CXX.rsp -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles\\AutoClicker.dir\\src\\main.cpp.obj -c C:\\Users\\mathi\\Desktop\\Clicker\\src\\main.cpp",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/AutoClicker.dir/includes_CXX.rsp -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles\\AutoClicker.dir\\src\\main.cpp.obj -c C:\\Users\\mathi\\Desktop\\Clicker\\src\\main.cpp",
   "file": "C:/Users/mathi/Desktop/Clicker/src/main.cpp"
 },
 {
   "directory": "C:/Users/mathi/Desktop/Clicker/build",
-  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/AutoClicker.dir/includes_CXX.rsp -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles\\AutoClicker.dir\\src\\auto.cpp.obj -c C:\\Users\\mathi\\Desktop\\Clicker\\src\\auto.cpp",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/AutoClicker.dir/includes_CXX.rsp -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles\\AutoClicker.dir\\src\\auto.cpp.obj -c C:\\Users\\mathi\\Desktop\\Clicker\\src\\auto.cpp",
   "file": "C:/Users/mathi/Desktop/Clicker/src/auto.cpp"
 }
 ]
