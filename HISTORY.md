@@ -16,7 +16,7 @@ Using SendInput I could use this "MOUSEEVENT" to send an input to the PC.
 ::SendInput(1, &Input, sizeof(INPUT));
 ```
 Here we see the program in action:
-![Test](images/score.png)
+![Test](media/score.gif)
 The user tells the program to repeat the mouse click 10000 times, which is way too fast for the PC. Therefore the program does not end up clicking 10000 times in an instant, hereby creating a lower CPS. In fact, the clicks of 10000 is not reached within the 5 seconds time limit.
 
 For a start, this is an impressive score, based on the fact that the world record for a person to click is 15,4 CPS - but it is unfair to compare a person with even a bad executed robot.
