@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "xutility": "cpp"
-    },
-    "cmake.mingwSearchDirs": [
-        "C:\\mingw-w64\\mingw64\\bin"
-    ],
-    "cmake.generator": "MinGW Makefiles"
-}
